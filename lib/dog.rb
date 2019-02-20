@@ -3,4 +3,5 @@ class Dog
     @name=name
     breed ||= "mutt"
     @breed=breed
+  end
 end
